@@ -129,12 +129,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## **👨‍💻 Author**
-**Your Name**  
-📧 Email: your.email@example.com  
-🔗 GitHub: [github.com/your-profile](https://github.com/your-profile)  
-🚀 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-
----
 
 ### 🚀 **Now Run the Script and Convert Your Media Files into Accurate Transcriptions!** 🎉
